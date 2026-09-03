@@ -1,7 +1,7 @@
 # Exercises from Chapter 2
 
 """
-Ex 2.1: Suppose you’re building an app to keep track of your finances
+Ex 2.1: Suppose you’re building an app to keep track of your finances.
 
 Every day, you write down everything you spent money on. At the
 end of the month, you review your expenses and sum up how much
