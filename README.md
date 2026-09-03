@@ -9,10 +9,10 @@ It's just me reading, learning, and writing code to make sure these concepts act
 | Chapter | Topic | What I Practiced |
 | --- | --- | --- |
 | **01** | Intro to Algorithms | Binary Search, figuring out Big O notation, Logarithmic Time |
-| **02** | Selection Sort | Arrays vs. Linked Lists, Memory basics, $O(n^2)$ Sorting |
+| **02** | Selection Sort | Arrays vs. Linked Lists, Memory basics, O(n^2) Sorting |
 | **03** | Recursion | The Call Stack, Base vs. Recursive Cases, avoiding Stack-Overflows |
 | **04** | Quicksort | Divide & Conquer, Inductive Proofs, Pivot mechanics |
-| **05** | Hash Tables | $O(1)$ Lookups, Collisions, Load Factors |
+| **05** | Hash Tables | O(1) Lookups, Collisions, Load Factors |
 
 ## 🗺️ What's Next
 
@@ -23,6 +23,7 @@ I've finished the first half of the book (up to Chapter 5). I plan to tackle the
 * **Chapter 08:** Greedy Algorithms & NP-Complete problems
 * **Chapter 09:** Dynamic Programming
 * **Chapter 10:** K-Nearest Neighbors (KNN)
+* **Chapter 11:** Where to Go Next
 
 ## 💻 What's Inside
 
